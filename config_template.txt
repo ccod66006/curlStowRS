@@ -1,0 +1,4 @@
+token_url=https://kkk.com/realms/dcm-test/protocol/openid-connect/token
+upload_url=https://aaa.com/dcm4chee-arc/aets/DCM4CHEE/rs/studies
+client_id=dcm4cheeeeeeeeeeeeeeee
+client_secret=aaaeeee
