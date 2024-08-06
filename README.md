@@ -1,5 +1,6 @@
 # StowRS by curl
 
+0. Install curl if don't have.
 1. Rename config_template.txt to config.txt and edit the url and client to fit yours.
 2. DICOM files go to ./files
 3. Run stowrs.bat
